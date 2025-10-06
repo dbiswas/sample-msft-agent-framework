@@ -20,6 +20,9 @@ Sample project which showcases Microsoft's new Agent Framework
 pip install agent-framework --pre
 -- or --
 uv add agent-framework --pre
+pip install openai
+uv add openai
+
 
 ### Install the pre-requisite packages (Optional):
     uv add pandas
